@@ -1,15 +1,19 @@
 # Project-1
 Project Overview
+
 Project Name
+
 The name of your project.
 
 Project Description
+
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
 API and Data Sample
 Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
 
 Wireframes
+
 Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
 MVP/PostMVP
@@ -39,6 +43,7 @@ July 14	Pseudocode / actual code	Incomplete
 July 15	Initial Clickable Model	Incomplete
 July 16	MVP	Incomplete
 July 17	Presentations	Incomplete
+
 Priority Matrix
 Include a full list of features that have been prioritized based on the Time and Importance Matrix. Link this image in a similar manner to your wireframes
 

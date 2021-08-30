@@ -62,9 +62,5 @@ git deploy |    H       |2           |             |
 
 
 
+### Change Log
 
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-Change Log
-Use this section to document what changes were made and the reasoning behind those changes. 

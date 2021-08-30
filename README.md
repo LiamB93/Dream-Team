@@ -12,10 +12,10 @@ The goal of my project is to create an application that allows users-namely socc
 ### API and Data Sample
 https://apifootball.com/
 
-[API REQUEST](../general_assembly/hummingbirds/unit_1/Project-1/sampleAPI.js)
+![API REQUEST](https://github.com/LiamB93/Project-1/blob/main/sampleAPI.js "API Request")
 
 ### Wireframes
-[Wireframe](../general_assembly/hummingbirds/unit_1/Project-1/pics/wireframe.png)
+![Wireframe](https://github.com/LiamB93/Project-1/blob/main/Pics/wireframe.png "Wireframe")
 
 ### MVP
 
@@ -38,7 +38,7 @@ Sep 3	Presentations                             incomplete
 
 ### Priority Matrix
 
-[Matrix](../general_assembly/hummingbirds/unit_1/pics/matrix.png)
+![Matrix](https://https://github.com/LiamB93/Project-1/blob/main/Pics/matrix.png "Priority Matrix")
 
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual

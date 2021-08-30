@@ -40,7 +40,7 @@ Sep 3 |	Presentations                          |incomplete
 
 ### Priority Matrix
 
-[Matrix](../blob/main/Pics/matrix.png)
+![Priority Matrix](Pics/matrix.png)
 
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual

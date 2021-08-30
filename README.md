@@ -29,12 +29,13 @@ allow users to choose formation
 
 ### Project Schedule
 
-Day	Deliverable				Status
-Aug 30	Project Approval                        incomplete
-Aug 31	Page layout (HTML/CSS structure)        incomplete	
-Sep 1	code/psuedocode                           incomplete
-Sep 2	MVP	                                      incomplete
-Sep 3	Presentations                             incomplete	
+Day   |Deliverable   				                   |Status
+------|:--------------------------------------:|------------:
+Aug 30|	Project Approval                       |incomplete
+Aug 31|	Page layout (HTML/CSS structure)       |incomplete	
+Sep 1 |	code/psuedocode                        |incomplete
+Sep 2 |	MVP	                                   |incomplete
+Sep 3 |	Presentations                          |incomplete   	
 
 ### Priority Matrix
 

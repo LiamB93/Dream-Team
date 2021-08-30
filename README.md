@@ -1,61 +1,62 @@
-# Project-1
+# Road to Qatar
 Project Overview
 
 Project Name
 
-The name of your project.
+Road to Qatar
 
 Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+The goal of my project is to create an application that tracks players in the United States Men's National Team (USMNT) player pool in preparation for the 2022 World Cup. It will include active players who have made appearances for the USMNT, players who have not but are on the fringes of the team, as well as promising youth players. Each player will have a profile listing their playing history, stats, quick bio, etc. The app will also track the USMNT progress though the qualifying stages and will also allow the user to create their own roster that they would like to see go to the 2022 World Cup.
 
 API and Data Sample
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+https://www.api-football.com/ Will use this api to get player information, stats,.
 
 Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
-MVP/PostMVP
-The functionality will then be divided into two separate lists: MPV and PostMVP. Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.
 
 MVP
 These are examples only. Replace with your own MVP features.
 
-Find and use external api
+Find and use external api that returns soccer statistics and betting odds
 Render data on page
-Allow user to choose favorites
+Allow user to create their own 18-man roster
 PostMVP
-These are examples only. Replace with your own Post-MVP features.
-
 Add second API
-Use local storage to save user favorites
+Focus more on style/look
+
 Project Schedule
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.
 
 You are responsible for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding Saturday and Sunday.
 
-Day	Deliverable	Status
-July 10-12	Prompt / Wireframes / Priority Matrix / Timeframes	Incomplete
-July 13	Project Approval	Incomplete
-July 13	Core Application Structure (HTML, CSS, etc.)	Incomplete
-July 14	Pseudocode / actual code	Incomplete
-July 15	Initial Clickable Model	Incomplete
-July 16	MVP	Incomplete
-July 17	Presentations	Incomplete
+Day	Deliverable				Status
+Aug 30	Project Approval                        incomplete
+Aug 31	Page layout (HTML/CSS structure)        incomplete	
+Sep 1	code/psuedocode                         incomplete
+Sep 2	MVP	                                incomplete
+Sep 3	Presentations                           incomplete	
 
 Priority Matrix
-Include a full list of features that have been prioritized based on the Time and Importance Matrix. Link this image in a similar manner to your wireframes
 
-Timeframes
-Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
 
 Time frames are also key in the development cycle. You have limited time to code all phases of the game. Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
 
-Component	Priority	Estimated Time	Time Invested	Actual Time
-Adding Form	H	3hrs	3.5hrs	3.5hrs
-Working with API	H	3hrs	2.5hrs	2.5hrs
-Total	H	6hrs	5hrs	5hrs
+Component			Priority	Estimated Time	Time Invested	Actual Time
+HTML Formatting                   H                  4hrs
+CSS styling                       H                  4hrs
+testing API endpoints             H                  2hrs
+app logic for api requests        H                  4hrs                  
+app logic for profiles            H                  4hrs
+app logic for custom team         H                  5hrs
+form for custom team              H                  2hrs
+app logic for odds                M                  2hrs
+app logic for results             M                  3hrs
+style pages                       M                  6hrs
+deploy to github                  M                  2hrs
+Total
+40hrs
 Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
 

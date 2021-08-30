@@ -19,11 +19,11 @@ https://apifootball.com/
 
 ### MVP
 
-1.Create submission form that takes input
-2.Find and use external api that get soccer players' relevant information and pictures
-3.Render data on page
-4.Make submissions position-specific
-5.Don't allow repeat-submissions
+* Create submission form that takes input
+* Find and use external api that get soccer players' relevant information and pictures
+* Render data on page
+* Make submissions position-specific
+* Don't allow repeat-submissions
 
 ### Post MVP
 allow users to choose formation

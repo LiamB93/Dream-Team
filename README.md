@@ -11,10 +11,10 @@ The goal of my project is to create an application that allows users-namely socc
 
 ### API and Data Sample
 https://apifootball.com/
-[API REQUEST](../Project-1/sampleAPI.js)
+[API REQUEST](sampleAPI.js)
 
 ### Wireframes
-[Wireframe](..Project-1/wireframe.png)
+[Wireframe](wireframe.png)
 
 ### MVP
 
@@ -37,7 +37,7 @@ Sep 3	Presentations                             incomplete
 
 ### Priority Matrix
 
-[Matrix](../Project-1/matrix.png)
+[Matrix](matrix.png)
 
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual

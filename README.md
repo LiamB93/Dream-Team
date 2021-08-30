@@ -38,7 +38,7 @@ Sep 3	Presentations                             incomplete
 
 ### Priority Matrix
 
-![Matrix](https://https://github.com/LiamB93/Project-1/blob/main/Pics/matrix.png "Priority Matrix")
+[Matrix](../blob/main/Pics/matrix.png)
 
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual

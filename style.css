@@ -1,0 +1,38 @@
+header {
+  text-align: center;
+}
+
+
+body {
+  background-image: url(../Pics/pitchBackground.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.container {
+  display: flex-inline;
+  text-align: center;
+  }
+
+  
+.player{
+  display: inline-block;
+  padding: 50px;
+}
+#forward {
+  height: 100px;
+}
+#midfielder{
+  height: 100px;
+}
+
+#defender{
+  height: 100px;
+}
+#goalie{
+  height: 100px;
+  padding: 50px;
+}
+

@@ -14,7 +14,7 @@ https://apifootball.com/
 
 ![API REQUEST](https://github.com/LiamB93/Project-1/blob/main/sampleAPI.js "API Request")
 
-### Wireframes
+### Wireframe
 ![Wireframe](https://github.com/LiamB93/Project-1/blob/main/Pics/wireframe.png "Wireframe")
 
 ### MVP
@@ -40,8 +40,9 @@ Sep 3 |	Presentations                          |incomplete
 
 ### Priority Matrix
 
-[Matrix](../blob/main/Pics/matrix.png)
+![Priority Matrix](Pics/matrix.png)
 
+### Timeframe
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual
 ---------- |:----------:|-----------:|------------:|------:

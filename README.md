@@ -32,8 +32,8 @@ allow users to choose formation
 
 Day   |Deliverable   				                   |Status
 ------|:--------------------------------------:|-----------:
-Aug 30|	Project Approval                       |incomplete
-Aug 31|	Page layout (HTML/CSS structure)       |incomplete	
+Aug 30|	Project Approval                       |complete
+Aug 31|	Page layout (HTML/CSS structure)       |complete
 Sep 1 |	code/psuedocode                        |incomplete
 Sep 2 |	MVP	                                   |incomplete
 Sep 3 |	Presentations                          |incomplete   	

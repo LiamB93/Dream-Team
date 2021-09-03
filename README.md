@@ -34,8 +34,8 @@ Day   |Deliverable   				                   |Status
 ------|:--------------------------------------:|-----------:
 Aug 30|	Project Approval                       |complete
 Aug 31|	Page layout (HTML/CSS structure)       |complete
-Sep 1 |	code/psuedocode                        |incomplete
-Sep 2 |	MVP	                                   |incomplete
+Sep 1 |	code/psuedocode                        |complete
+Sep 2 |	MVP	                                   |complete
 Sep 3 |	Presentations                          |incomplete   	
 
 ### Priority Matrix
@@ -48,7 +48,7 @@ Comp       |Priority    |Est-Time    |Time-Invst   |Actual
 ---------- |:----------:|-----------:|------------:|------:
 html       |    H       |3           |             |       
 css        |    H       |3           |             |       
-handle form|    H       |3           |             |       
+handleform |    H       |3           |             |       
 name team  |    M       |2           |             |       
 formLog    |    H       |3           |             |       
 test api   |    H       |2           |             |       

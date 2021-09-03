@@ -5,34 +5,58 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-  <script src="dreamteam.js" defer></script>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <!-- <script src=“https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js”></script> -->
+  <!-- <script type="module">
+    import axios from 'https://cdn.skypack.dev/axios';
+  </script> -->
+  <script defer src="dreamteam.js"></script>
   <title>Dream Team</title>
 </head>
-<header>
-  <h1>Dream-Team</h1>
-  <h3>Build Your Own Starting XI</h3>
-  <label for="teamName"><strong>Name Your Team:</strong></label>
-  <input type="text" id="name" name="name" required minlength="4" maxlength="20" size="14">
-  <button onclick="createTeamName()">Submit</button>
-  <p id="nameHere"></p>
-</header>
 
 <body>
+  <div id="header">
+    <!-- <header> -->
+    <h1>Who's That Player?</h1>
+    <h3>Get Info on Any Soccer Player in the World</h3>
+    <p>Ever feel left out when your friends start talking soccer? Want to be a little more informed on the "world game"
+      when you travel abroad? Well you've
+      come
+      to the right place if you ever need some quick info to appear informed when your friends start talking footy.
+    </p>
+    <!-- </header> -->
+  </div>
+
 
   <main class="container">
-    <div id="forward">
-      <div class="player">
-        <input type="text" id="Forward1" value="Pick Forward">
-        <button onclick="pickForward()">Submit</button>
-      </div>
-      <div class="player">
+
+    <div id="player">
+      <input type="text" id="playerSearch" value="Search Player">
+      <button id="searchbutton">Submit</button>
+    </div>
+    <div class="player">
+
+    </div>
+
+  </main>
+
+
+</body>
+
+</html>
+
+
+
+
+
+<!-- <div class="player">
         <input type="text" id="Forward2" value="Pick Forward">
         <button onclick="pickForward()">Submit</button>
       </div>
-    </div>
+    </div> -->
 
-    <div id="midfielder">
+<!-- <div id="midfielder">
       <div class="player">
         <input type="text" id="Midfielder1" value="Pick Midfielder">
         <button onclick="pickMidfielder()">Submit</button>
@@ -72,10 +96,4 @@
     <div id="goalie">
       <input type="text" id="Goalie" value="Pick Goalie">
       <button onclick="pickGoalie()">Submit</button>
-    </div>
-  </main>
-
-
-</body>
-
-</html>
+    </div> -->

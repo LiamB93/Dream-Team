@@ -46,17 +46,17 @@ Sep 3 |	Presentations                          |incomplete
 
 Comp       |Priority    |Est-Time    |Time-Invst   |Actual
 ---------- |:----------:|-----------:|------------:|------:
-html       |    H       |3           |             |       
-css        |    H       |3           |             |       
-handleform |    H       |3           |             |       
-name team  |    M       |2           |             |       
-formLog    |    H       |3           |             |       
-test api   |    H       |2           |             |       
-get pics   |    M       |2           |             |       
-get players|    H       |2           |             |       
-no repeat  |    H       |4           |             |       
-positionLog|    H       |3           |             |       
-styling    |    M       |3           |             |       
+html       |    H       |3           | 3           |       
+css        |    H       |3           | 3           |       
+handleform |    H       |3           | 4           |       
+name team  |    M       |2           | 1           |       
+formLog    |    H       |3           | 3           |       
+test api   |    H       |2           | 4           |       
+get pics   |    M       |2           | 4           |       
+get players|    H       |2           | 4           |       
+no repeat  |    H       |4           | 0            |       
+positionLog|    H       |3           | 3            |       
+styling    |    M       |3           | 4            |       
 git deploy |    H       |2           |             |       
   Total    |            |32          |             |   
 

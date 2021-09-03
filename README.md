@@ -66,4 +66,5 @@ git deploy |    H       |2           |             |
 
 
 ### Change Log
+Had to scale back project from a starting XI app to a player information act. Underestimated how hard it would be for me to create 11 different buttons.
 

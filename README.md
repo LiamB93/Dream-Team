@@ -54,11 +54,11 @@ formLog    |    H       |3           | 3           |
 test api   |    H       |2           | 4           |       
 get pics   |    M       |2           | 4           |       
 get players|    H       |2           | 4           |       
-no repeat  |    H       |4           | 0            |       
+no repeat  |    H       |4           | 1            |       
 positionLog|    H       |3           | 3            |       
 styling    |    M       |3           | 4            |       
-git deploy |    H       |2           |             |       
-  Total    |            |32          |             |   
+git deploy |    H       |2           | 1            |       
+  Total    |            |32          |  35           |   
 
 
 ### Code Snippet
